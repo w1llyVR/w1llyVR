@@ -1,7 +1,7 @@
 ```javascript
 {
   "Occupation": "Software Engineering Student",
-  "Age": 19,
+  "Age": 20,
   "Used n Still Learning": {
     "FrontEnd": [
       "Angular",
@@ -14,7 +14,8 @@
       "Spring Boot",
       ".Net",
       "Apache Camel",
-      "JDK"
+      "Express JS",
+      "Node JS"
     ]
   },
   "Projects n Jobs": [
